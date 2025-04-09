@@ -33,10 +33,3 @@ This lightweight application allows you to effortlessly scan barcodes using your
 
 ---
 
-> ℹ️ Feel free to contribute, suggest features, or report issues via GitHub!
-
----
-
-## 📌 License
-
-This project is open source and free to use under the [MIT License](LICENSE).
